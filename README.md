@@ -1,2 +1,3 @@
-# SIMPLIFIED-MIDTERM-PROJECT
-MIDTERM PROJECT
+# Simplified-Midterm-Project
+
+Project Presentation Link : https://youtu.be/mgpguPayfqQ
